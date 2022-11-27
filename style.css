@@ -1,0 +1,22 @@
+#hi{
+    color: firebrick;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#bye:hover{
+    background-color: black;
+    color: yellow;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#come:hover{
+    background-color: pink;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: oblique;
+}
